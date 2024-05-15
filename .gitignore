@@ -1,0 +1,4 @@
+node_modules
+cypress/e2e/ryanair.cy.js
+cypress/e2e/ryanair2passagens.cy.js
+cypress/e2e/teste.cy.js
